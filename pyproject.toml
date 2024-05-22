@@ -1,0 +1,14 @@
+[project]
+name = "webdev9000-nodes"
+description = "Nodes:Ignore Braces, Settings Switch."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/WebDev9000/WebDev9000-Nodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "WebDev9000-Nodes"
+Icon = ""
